@@ -297,11 +297,17 @@ CPU 성능은 내 실력과 달리 날로 발전한다.
 
 ```
 - 그건 프론트엔드가 해야 할 일이라고 해라.
+
 - 그건 원래 백엔드가 프론트엔드보다 바쁘다고 해라.
+
 - 그건 DBA 가 해야 할 일이라고 해라.
+
 - 그건 DevOps 엔지니어가 해야 할 일이라고 해라.
+
 - 그건 기획팀에서 먼저 기획해야 할 일이라고 해라.
+
 - 그건 운영팀에게서 먼저 확인받아야 할 일이라고 해라.
+
 - 그건 챗지피티에게 먼저 확인받아야 할 일이라고 해라.
 ```
 
@@ -311,12 +317,19 @@ CPU 성능은 내 실력과 달리 날로 발전한다.
 
 ```
 - 그건 백엔드가 해야 할 일이라고 해라.
+
 - 그건 원래 프론트엔드가 백엔드보다 바쁘다고 해라.
+
 - 그건 앱 개발자가 해야 할 일이라고 해라.
+
 - 그건 퍼블리셔가 해야 할 일이라고 해라.
+
 - 그건 디자이너가 해야 할 일이라고 해라.
+
 - 그건 유저가 해야 할 일이라고 해라.
+
 - 그건 버그가 아니라 이스터에그라고 해라.
+
 - 그건 디자인이 원래 그렇다고 해라.
 ```
 
@@ -326,10 +339,15 @@ CPU 성능은 내 실력과 달리 날로 발전한다.
 
 ```
 - 이 이슈는 Known Issue 라고 해라.
+
 - 이 이슈는 Non Issue 라고 해라.
+
 - 이 이슈는 사용자 문제라고 해라.
+
 - 이 이슈는 일정상 못고친다고 해라.
+
 - 이 이슈는 인프라 문제라고 해라.
+
 - 이 이슈는 일어날 일 없다고 해라.
 ```
 
@@ -438,24 +456,42 @@ IT 서비스 기획자는 서비스에 계획 및 로드맵 수립 + 협의를 �
 놀랍게도 꽤 많이 참고했다.
 
 - [유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://www.hanbit.co.kr/store/books/look.php?p_code=E2375873090)
+
 - [애자일 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
+
 - [프로그래밍의 정석](http://www.yes24.com/Product/Goods/55254076)
+
 - [7가지 동시성 모델](http://www.yes24.com/Product/Goods/29331038)
+
 - [폴리글랏 프로그래밍](http://www.yes24.com/Product/Goods/12204890)
+
 - [클린 코드](http://www.yes24.com/Product/Goods/11681152)
+
 - [클린 아키텍쳐](http://www.yes24.com/Product/Goods/77283734)
+
 - [클로저 프로그래밍의 즐거움](http://www.yes24.com/Product/Goods/24555451)
+
 - [프로그래밍 스칼라](http://www.yes24.com/Product/Goods/27767797)
+
 - [FSharp Fun and Profit 블로그](https://fsharpforfunandprofit.com/)
+
 - [로버트 C 마틴 블로그](https://blog.cleancoder.com/)
+
 - [마틴파울러 블로그](https://martinfowler.com/)
+
 - [wtfjs](https://github.com/denysdovhan/wtfjs) / [golang suck](http://www.golang.sucks/)
+
 - [코딩 호러의 이펙티브 프로그래밍](http://www.yes24.com/Product/Goods/8611802)
+
 - [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming)
+
 - [Amazon, 2016 Letter to Shareholders](https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders)
+
 - 그 외 언젠가 한 번쯤 읽어본 책들 다수
+
 - 그 외 언젠가 한 번쯤 읽어볼 책들 다수
-- 나무위키
+
+- 나무위키 (https://namu.wiki/)
 
 # Contributing
 
